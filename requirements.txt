@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+scipy
+scikit-learn
+statsmodels
+xgboost
+lightgbm
+catboost
+optuna
+prophet
+shap
+streamlit
+odfpy
+requests
+joblib
