@@ -1,0 +1,2 @@
+Selected_Model,Best_Boosting_Model,Forecast_Horizon,Training_Start,Training_End,Test_Start,Test_End,Test_MAE,Test_RMSE,Test_R2,Test_WAPE_pct,Forecast_Range_Observed_Coverage
+Tuned CatBoost,Tuned CatBoost,1 day ahead,2022-08-01,2025-08-24,2025-08-25,2026-05-31,2023.5288877543067,3353.8321988952785,0.897710251083548,3.653731478934298,0.89568345323741
